@@ -18,22 +18,29 @@ This tool can :
 
 ### Installation
 
-Install all the dependancies required for the program, mentioned in *requirements.txt* using following command :
+Install all the dependancies required for the program, mentioned in [requirements.txt](https://github.com/Ketaki-k-jadhav/Bittorrent/blob/master/requirements.txt) using following command :
 
 `pip3 install -r requirements.txt`
 
 ### Run the program
-
+* Clone this repo
+* Open terminal and type following command:
+```
+python3 main.py
+```
 
 ### References
 
 Following resources were extremely useful while doing this project:
-```
--[Bittorrent Protocol Specification v1.0](https://wiki.theory.org/BitTorrentSpecification)
--[How to Write a Bittorrent Client, Part 1](http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/)
--[How to Write a Bittorrent Client, Part 2](http://www.kristenwidman.com/blog/71/how-to-write-a-bittorrent-client-part-2/)
--[Bittorrent Client](http://foss.coep.org.in/coepwiki/index.php/Bittorrent_Client)
 
-```
+* [Bittorrent Protocol Specification v1.0](https://wiki.theory.org/BitTorrentSpecification)
+
+* [How to Write a Bittorrent Client, Part 1](http://www.kristenwidman.com/blog/33/how-to-write-a-bittorrent-client-part-1/)
+
+* [How to Write a Bittorrent Client, Part 2](http://www.kristenwidman.com/blog/71/how-to-write-a-bittorrent-client-part-2/)
+
+* [Bittorrent Client](http://foss.coep.org.in/coepwiki/index.php/Bittorrent_Client)
+
+
 
 ### 
